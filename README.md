@@ -3,7 +3,10 @@
 <h1 align="center">Hola 👋, soy Erick Mejia</h1>
 
 [![](https://visitcount.itsvg.in/api?id=erickm13&icon=0&color=3)](https://visitcount.itsvg.in)<br>
+<div align="center">
+  
 ![GIF](https://media3.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif?cid=ecf05e47zcgq40xzt5yd3nyz98ltevn2trpqco05efx5avjt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+</div>
 
 
 👋 ¡Hola! Soy estudiante de la carrera de Ingeniería en Sistemas y Ciencias de la Computación. Me apasiona la idea de crear soluciones y herramientas útiles a través de la programación.<br><br>💻 A lo largo de mi carrera, he desarrollado una sólida base en programación y lógica que me ha permitido abordar una amplia gama de proyectos. Mi enfoque principal ha sido la programación web, tanto en el frontend como en el backend, y he trabajado con varios frameworks, siendo Angular el que más tiempo he dedicado.<br><br>
