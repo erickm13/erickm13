@@ -13,7 +13,7 @@
   </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       🚀 Además de mi experiencia en Angular, también tengo conocimientos en otros lenguajes de programación como PHP, Python y Java. Estoy comprometido con el aprendizaje continuo y siempre estoy buscando oportunidades para expandir mis habilidades y conocimientos en el mundo de la tecnología.<br><br>🌟 Si compartes esta pasión por la programación y la creación de soluciones innovadoras, ¡me encantaría conectarme contigo y explorar nuevas oportunidades juntos!<br>
     </td>
   </tr>
