@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Erick</h1>
-<table>
+<table style="border-collapse: collapse;">
   <tr>
     <td width="50%">
       
