@@ -13,7 +13,7 @@ Además de mi experiencia en Angular, también tengo conocimientos en otros leng
 
 Si compartes esta pasión por la programación y la creación de soluciones innovadoras, ¡me encantaría conectarme contigo y explorar nuevas oportunidades juntos!
 
-    </td>
+  </td>
     <td width="50%">
       
 ![Imagen](<iframe src="https://giphy.com/embed/gDPxwdP6SKFnsWDJ2u" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/typography-bug-feature-gDPxwdP6SKFnsWDJ2u">via GIPHY</a></p>)
