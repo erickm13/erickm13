@@ -16,7 +16,7 @@ Si compartes esta pasión por la programación y la creación de soluciones inno
   </td>
     <td width="50%">
       
-![Imagen]([https://giphy.com/embed/gDPxwdP6SKFnsWDJ2u](https://media3.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif?cid=ecf05e47zcgq40xzt5yd3nyz98ltevn2trpqco05efx5avjt&ep=v1_gifs_search&rid=giphy.gif&ct=g)https://media3.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif?cid=ecf05e47zcgq40xzt5yd3nyz98ltevn2trpqco05efx5avjt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![GIF]([https://giphy.com/embed/gDPxwdP6SKFnsWDJ2u](https://media3.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif?cid=ecf05e47zcgq40xzt5yd3nyz98ltevn2trpqco05efx5avjt&ep=v1_gifs_search&rid=giphy.gif&ct=g)https://media3.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif?cid=ecf05e47zcgq40xzt5yd3nyz98ltevn2trpqco05efx5avjt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
   </td>
   </tr>
