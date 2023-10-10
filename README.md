@@ -15,10 +15,15 @@
 </div>
 
 
-👋 ¡Hola! Soy estudiante de la carrera de Ingeniería en Sistemas y Ciencias de la Computación. Me apasiona la idea de crear soluciones y herramientas útiles a través de la programación.<br><br>💻 A lo largo de mi carrera, he desarrollado una sólida base en programación y lógica que me ha permitido abordar una amplia gama de proyectos. Mi enfoque principal ha sido la programación web, tanto en el frontend como en el backend, y he trabajado con varios frameworks, siendo Angular el que más tiempo he dedicado.<br><br>
+👋 Hello! I'm a student pursuing a degree in Computer Systems and Computer Science Engineering. I'm passionate about the idea of creating useful solutions and tools through programming.
 
-  🚀 Además de mi experiencia en Angular, también tengo conocimientos en otros lenguajes de programación como PHP, Python y Java. Estoy comprometido con el aprendizaje continuo y siempre estoy buscando oportunidades para expandir mis habilidades y conocimientos en el mundo de la tecnología.<br><br>🌟 Si compartes esta pasión por la programación y la creación de soluciones innovadoras, ¡me encantaría conectarme contigo y explorar nuevas oportunidades juntos!<br><br>
-      Puedes contactarme aqui: 
+💻 Throughout my academic journey, I have built a solid foundation in programming and logic, enabling me to tackle a wide range of projects. My primary focus has been web development, both on the frontend and backend, and I have worked with various frameworks, with Angular being the one I've dedicated the most time to.
+
+🚀 In addition to my experience with Angular, I also have proficiency in other programming languages such as PHP, Python, and Java. I'm committed to continuous learning and always on the lookout for opportunities to expand my skills and knowledge in the world of technology.
+
+🌟 If you share the same passion for programming and the creation of innovative solutions, I would love to connect with you and explore new opportunities together!
+
+You can reach me here:
       
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/erickm13) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/erickm32) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erickmejia.13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erickmejia) 
 
