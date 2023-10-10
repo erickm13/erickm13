@@ -1,24 +1,12 @@
 <h1 align="center">Hola 👋, soy Erick</h1>
-<h3 align="center">Un apasionado desarrollador frontend y Backend de Guatemala</h3>
+<h3 align="center">👋 ¡Hola! Estoy emocionado de encontrarme en el último año de mi carrera de Ingeniería en Sistemas y Ciencias de la Computación. Me apasiona la idea de crear soluciones y herramientas útiles a través de la programación.
 
-<p align="left"> <img src ="https://komarev.com/ghpvc/?username=erickm13&label=Profile%20views&color=0e75b6&style=flat" alt="erickm13" /> </p>
+💻 A lo largo de mi carrera, he desarrollado una sólida base en programación y lógica que me ha permitido abordar una amplia gama de proyectos. Mi enfoque principal ha sido la programación web, tanto en el frontend como en el backend, y he trabajado con varios frameworks, siendo Angular el que más tiempo he dedicado.
 
-<h3 align="left">Conéctate conmigo:</ h3>
-<p align="left">
-<a href="https://fb.com/erickm32" target="blank"><img align="center" src="https://raw.githubusercontent.com /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erickm32" height="30" width="40" /></a>
-</p>
+🚀 Además de mi experiencia en Angular, también tengo conocimientos en otros lenguajes de programación como PHP, Python y Java. Estoy comprometido con el aprendizaje continuo y siempre estoy buscando oportunidades para expandir mis habilidades y conocimientos en el mundo de la tecnología.
 
-## Acerca de Mí
+🌟 Si compartes esta pasión por la programación y la creación de soluciones innovadoras, ¡me encantaría conectarme contigo y explorar nuevas oportunidades juntos!</h3>
 
-![Estudiante](https://media.giphy.com/media/3ohs4h4Xep0rMNVw7W/giphy.gif)
-
-🎓 ¡Hola! Soy un estudiante de cuarto año de Ingeniería en Sistemas, apasionado por la programación y el desarrollo web.
-
-![Programación](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
-
-💻 Tengo una sólida base en programación y estoy dispuesto a aprender y crecer en el mundo de la tecnología. Mi objetivo es encontrar oportunidades emocionantes en el campo de la programación y el desarrollo web.
-
-![Desarrollo web](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 🌐 Me encanta crear aplicaciones web y sitios web que sean atractivos, funcionales y eficientes. Estoy constantemente mejorando mis habilidades y explorando nuevas tecnologías para estar al tanto de las últimas tendencias en el desarrollo web.
 
