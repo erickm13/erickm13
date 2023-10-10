@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Erick</h1>
-<table cellspacing="-2" cellpadding="-2">
+<table style="border: none">
   <tr>
     <td width="50%">
       
