@@ -58,10 +58,13 @@
 
 <h3>Version Control</h3>
 
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white) 
 
 <h3>Preferred IDEs & Tools :</h3>
 
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/vscode-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61.svg?style=flat-square&logo=virtualbox&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
 
