@@ -16,9 +16,9 @@ Si compartes esta pasión por la programación y la creación de soluciones inno
   </td>
     <td width="50%">
       
-![Imagen](<iframe src="https://giphy.com/embed/gDPxwdP6SKFnsWDJ2u" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/typography-bug-feature-gDPxwdP6SKFnsWDJ2u">via GIPHY</a></p>)
+![Imagen](https://giphy.com/embed/gDPxwdP6SKFnsWDJ2u)
 
-    </td>
+  </td>
   </tr>
 </table>
 
