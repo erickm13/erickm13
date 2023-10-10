@@ -3,15 +3,16 @@
 <h1 align="center">Hi , I'm Erick Mejia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
 [![](https://visitcount.itsvg.in/api?id=erickm13&icon=0&color=3)](https://visitcount.itsvg.in)<br>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Systems+Engineer+Student;Problem+Solver;Open-Source+Enthusiast"></a>
-</p>
 
 <br>
 <div align="center">
   
 ![GIF](https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif)
 </div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Systems+Engineer+Student;Problem+Solver;Open-Source+Enthusiast"></a>
+</p>
 
 <div align="center">
   👋 Hello! I'm a student pursuing a degree in Computer Systems and Computer Science Engineering. I'm passionate about the idea of creating useful solutions and tools through programming.
