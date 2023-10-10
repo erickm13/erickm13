@@ -1,7 +1,7 @@
 <html> 
 <h1 align="center">Hi , I'm Erick Mejia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
-[![](https://visitcount.itsvg.in/api?id=erickm13&icon=0&color=2)](https://visitcount.itsvg.in)<br>
+[![](https://visitcount.itsvg.in/api?id=erickm13&icon=0&color=1)](https://visitcount.itsvg.in)<br>
 
 <br>
 <div align="center">
