@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Erick</h1>
-<table>
+<table border="none">
   <tr>
     <td>
       hola
