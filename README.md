@@ -8,7 +8,10 @@
 </p>
 
 <br>
-
+<div align="center" width=200px height=200px>
+  
+![GIF](https://media3.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif?cid=ecf05e47zcgq40xzt5yd3nyz98ltevn2trpqco05efx5avjt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+</div>
 
 <div align="center">
   👋 Hello! I'm a student pursuing a degree in Computer Systems and Computer Science Engineering. I'm passionate about the idea of creating useful solutions and tools through programming.
