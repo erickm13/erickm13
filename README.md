@@ -2,7 +2,7 @@
   
 <h1 align="center">Hola 👋, soy Erick Mejia</h1>
 
-[![](https://visitcount.itsvg.in/api?id=erickm13&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=erickm13&icon=0&color=3)](https://visitcount.itsvg.in)<br>
 ![GIF](https://media3.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif?cid=ecf05e47zcgq40xzt5yd3nyz98ltevn2trpqco05efx5avjt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
