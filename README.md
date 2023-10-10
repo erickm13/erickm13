@@ -30,6 +30,7 @@ You can reach me here:
       
 # 💻 My Skills:
 
+<div align="center">  
 <h3>Programming languages</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -72,6 +73,7 @@ You can reach me here:
 ![VisualStudioCode](https://img.shields.io/badge/vscode-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61.svg?style=flat-square&logo=virtualbox&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+</div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickm13&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
