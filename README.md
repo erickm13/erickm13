@@ -10,7 +10,7 @@
 <br>
 <div align="center">
   
-![GIF](https://media3.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif?cid=ecf05e47zcgq40xzt5yd3nyz98ltevn2trpqco05efx5avjt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![GIF](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 </div>
 
 <div align="center">
