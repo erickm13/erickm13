@@ -1,13 +1,13 @@
 <html>
   
-<h1 align="center">Hola 👋, soy Erick</h1>
+<h1 align="center">Hola 👋, soy Erick Mejia</h1>
 
 [![](https://visitcount.itsvg.in/api?id=erickm13&icon=0&color=3)](https://visitcount.itsvg.in)
 <table>
   <tr>
     <td width="50%">
       
-👋 ¡Hola! Estoy emocionado de encontrarme en el último año de mi carrera de Ingeniería en Sistemas y Ciencias de la Computación. Me apasiona la idea de crear soluciones y herramientas útiles a través de la programación.<br><br>💻 A lo largo de mi carrera, he desarrollado una sólida base en programación y lógica que me ha permitido abordar una amplia gama de proyectos. Mi enfoque principal ha sido la programación web, tanto en el frontend como en el backend, y he trabajado con varios frameworks, siendo Angular el que más tiempo he dedicado.<br><br>
+👋 ¡Hola! Soy estudiante de la carrera de Ingeniería en Sistemas y Ciencias de la Computación. Me apasiona la idea de crear soluciones y herramientas útiles a través de la programación.<br><br>💻 A lo largo de mi carrera, he desarrollado una sólida base en programación y lógica que me ha permitido abordar una amplia gama de proyectos. Mi enfoque principal ha sido la programación web, tanto en el frontend como en el backend, y he trabajado con varios frameworks, siendo Angular el que más tiempo he dedicado.<br><br>
 
   </td>
     <td width="50%">
