@@ -1,9 +1,8 @@
 <html>
   
 <h1 align="center">Hola 👋, soy Erick</h1>
-</html>
+
 [![](https://visitcount.itsvg.in/api?id=erickm13&icon=0&color=3)](https://visitcount.itsvg.in)
-<html>
 <table>
   <tr>
     <td width="50%">
@@ -37,4 +36,3 @@
     </td> 
   </tr>
 </table>
-</html>
