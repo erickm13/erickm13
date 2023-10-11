@@ -10,11 +10,11 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Systems+Engineer+Student;Problem+Solver;Open-Source+Enthusiast"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Systems+Engineer+Student;Problem+Solver;Open-Source+Enthusiast">
 </p>
 
 <div align="center">
-  👋 Hello! I'm a student in Systems Engineer and Computer Sciences. I'm passionate about the idea of creating useful solutions and tools through programming.
+👋 Hello! I'm a student in Systems Engineer and Computer Sciences. I'm passionate about the idea of creating useful solutions and tools through programming.
 
 💻 Throughout my academic journey, I have built a solid foundation in programming and logic, enabling me to tackle a wide range of projects. My primary focus has been web development, both on the frontend and backend, and I have worked with various frameworks, with Angular being the one I've dedicated the most time to.
 
