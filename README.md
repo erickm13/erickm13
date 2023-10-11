@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=erickm13&icon=0&color=1)](https://visitcount.itsvg.in)<br>
 
 <br>
-<div align="center" max-width="10px">
+<div align="center" style="width: 300px;">
   
 ![GIF](https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif )
 </div>
