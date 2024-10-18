@@ -58,6 +58,11 @@ You can reach me here:<br>
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
+<h3>QA and Testing:</h3>
+
+![Selenium](https://img.shields.io/badge/selenium-43b02a.svg?style=flat-square&logo=selenium&logoColor=white) 
+![JUnit](https://img.shields.io/badge/junit-25A162.svg?style=flat-square&logo=junit&logoColor=white)
+
 <h3>Version Control:</h3>
 
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white) 
