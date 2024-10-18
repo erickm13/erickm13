@@ -14,11 +14,11 @@
 </p>
 
 <div align="center">
-👋 Hello! I'm a student in Systems Engineer and Computer Sciences. I'm passionate about the idea of creating useful solutions and tools through programming.
+👋 Hello! I'm a Systems Engineering and Computer Science student with a passion for creating useful solutions and tools through programming.
 
-💻 Throughout my academic journey, I have built a solid foundation in programming and logic, enabling me to tackle a wide range of projects. My primary focus has been web development, both on the frontend and backend, and I have worked with various frameworks, with Angular being the one I've dedicated the most time to.
+💻 Throughout my academic journey, I've built a solid foundation in programming and logic. I've worked on web development projects, both frontend and backend, with a particular focus on Angular. Currently, I am a Quality Assurance (QA) Software Engineer at Corporación BI, where I ensure the quality and reliability of software products, allowing me to apply my development knowledge.
 
-🚀 In addition to my experience with Angular, I also have proficiency in other programming languages such as PHP, Python, and Java. I'm committed to continuous learning and always on the lookout for opportunities to expand my skills and knowledge in the world of technology.
+🚀 In addition to my experience with Angular, I am proficient in other programming languages such as PHP, Python, and Java. I am committed to continuous learning and always seek opportunities to expand my skills and knowledge in technology.
 
 You can reach me here:<br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/592891128114708490) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/erickm32) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erick_mejia.13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-mejia-a9657a230)
