@@ -79,3 +79,14 @@ You can reach me here:<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickm13&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickm13/erickm13/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickm13/erickm13/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erickm13/erickm13/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/erickm13/erickm13/output/snake.svg" alt="Snake animation" />
+
+###
