@@ -1,10 +1,15 @@
 <html> 
 <h1 align="center">I'm Erick Mejia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
-[![](https://visitcount.itsvg.in/api?id=erickm13&icon=0&color=1)](https://visitcount.itsvg.in)<br>
-<br>
+###
 
-<div align="center" heigth="150px">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=erickm13.erickm13&"  />
+</div>
+
+###
+
+<div align="center" heigth="20px" width="20px">
   
 ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdycHY0dnNyc3lqd2Y1aGRjczBhcDNwMmJqNGEwMTdtZWVtM3lzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZVYAstOMLUDndgFPS/giphy.gif)
 </div>
