@@ -6,8 +6,14 @@
 
 <div align="center" heigth="150px">
   
-![GIF](https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif )
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdycHY0dnNyc3lqd2Y1aGRjczBhcDNwMmJqNGEwMTdtZWVtM3lzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZVYAstOMLUDndgFPS/giphy.gif)
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickm13/erickm13/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickm13/erickm13/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erickm13/erickm13/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Systems+Engineer+Student;Problem+Solver;Open-Source+Enthusiast"></a>
@@ -79,11 +85,3 @@ You can reach me here:<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickm13&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickm13/erickm13/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickm13/erickm13/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erickm13/erickm13/output/pacman-contribution-graph.svg">
-</picture>
-
