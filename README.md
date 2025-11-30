@@ -88,6 +88,6 @@ You can reach me here:<br>
 
 ###
 
-### <img src="https://raw.githubusercontent.com/erickm13/erickm13/output/snake.svg" alt="Snake animation" /> (Commits juego del gusanito)
+<!-- <img src="https://raw.githubusercontent.com/erickm13/erickm13/output/snake.svg" alt="Snake animation" /> (Commits juego del gusanito) -->
 
 ###
