@@ -9,10 +9,10 @@
 
 ###
 
-<div align="center" heigth="20px" width="20px">
-  
-![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdycHY0dnNyc3lqd2Y1aGRjczBhcDNwMmJqNGEwMTdtZWVtM3lzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZVYAstOMLUDndgFPS/giphy.gif)
-</div>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdycHY0dnNyc3lqd2Y1aGRjczBhcDNwMmJqNGEwMTdtZWVtM3lzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZVYAstOMLUDndgFPS/giphy.gif" width="320"/>
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickm13/erickm13/output/pacman-contribution-graph-dark.svg">
