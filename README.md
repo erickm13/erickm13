@@ -1,18 +1,24 @@
 <html> 
-<h1 align="center">I'm Erick Mejia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
+<h1 align="center">I'm Erick Mejia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> </h1>
 
 ###
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=erickm13.erickm13&"/>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=erickm13.erickm13&"  />
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mx_erick_mejia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-mejia-a9657a230)
+
+<br clear="both"/>
 
 ###
+<img align="left" src="https://media.tenor.com/KUgeaCbSEZAAAAAi/pikachu-pokemon.gif" width="180"/>
+<img align="right" src="https://media.tenor.com/hMQgeiW1JsYAAAAi/shiny-gengar-ig.gif" width="180"/>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdycHY0dnNyc3lqd2Y1aGRjczBhcDNwMmJqNGEwMTdtZWVtM3lzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZVYAstOMLUDndgFPS/giphy.gif" width="320"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=cyan&size=25&center=true&vCenter=true&width=600&height=130&lines=Web+Developer;Systems+Engineer+Student;Problem+Solver;Open-Source+Enthusiast"/>
+  </a>
 </p>
 
+<br clear="both"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickm13/erickm13/output/pacman-contribution-graph-dark.svg">
@@ -20,19 +26,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erickm13/erickm13/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Systems+Engineer+Student;Problem+Solver;Open-Source+Enthusiast"></a>
-</p>
-
 <div align="center">
-Hello! I'm a Systems Engineering and Computer Science student with a passion for creating useful solutions and tools through programming.
-
-Throughout my academic journey, I've built a solid foundation in programming and logic. I've worked on web development projects, both frontend and backend, with a particular focus on Angular. Currently, I am a Quality Assurance (QA) Software Engineer at Corporación BI, where I ensure the quality and reliability of software products, allowing me to apply my development knowledge.
-
-In addition to my experience with Angular, I am proficient in other programming languages such as PHP, Python, and Java. I am committed to continuous learning and always seek opportunities to expand my skills and knowledge in technology.
-
-You can reach me here:<br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erick_mejia.13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-mejia-a9657a230)
+Systems Engineering student & QA Automation Engineer at Corporación BI. I build test automation frameworks by day and break things in my home lab by night. Linux enthusiast, currently riced on Arch + Hyprland. Working my way toward backend development.
 </div>
       
 <h1>💻 My Skills:</h1>
@@ -100,7 +95,9 @@ You can reach me here:<br>
 
 </div>
 
-<h3>GitHub Stats:</h3>
+![](https://github-readme-stats-fast.vercel.app/api?username=erickm13&show_icons=true&theme=transparent)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickm13&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <div align="center">
+    <img src="https://media.tenor.com/1xtvQE_XAnMAAAAi/pokemon-of-ashes.gif"  />
+  </div>
 </div>
