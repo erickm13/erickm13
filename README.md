@@ -9,12 +9,12 @@
 <br clear="both"/>
 
 ###
-<img align="left" src="https://media.tenor.com/KUgeaCbSEZAAAAAi/pikachu-pokemon.gif" width="180"/>
-<img align="right" src="https://media.tenor.com/hMQgeiW1JsYAAAAi/shiny-gengar-ig.gif" width="180"/>
+<img align="left" src="https://media.tenor.com/KUgeaCbSEZAAAAAi/pikachu-pokemon.gif" width="18%"/>
+<img align="right" src="https://media.tenor.com/hMQgeiW1JsYAAAAi/shiny-gengar-ig.gif" width="18%"/>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=cyan&size=25&center=true&vCenter=true&width=600&height=130&lines=Web+Developer;Systems+Engineer+Student;Problem+Solver;Open-Source+Enthusiast"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=cyan&size=18&center=true&vCenter=true&width=600&height=130&lines=Web+Developer;Systems+Engineer+Student;Problem+Solver;Open-Source+Enthusiast" width="55%"/>
   </a>
 </p>
 
