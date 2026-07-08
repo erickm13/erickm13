@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=cyan&size=18&center=true&vCenter=true&width=600&height=130&lines=Web+Developer;Systems+Engineer+Student;Problem+Solver;Open-Source+Enthusiast" width="55%"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=cyan&size=18&center=true&vCenter=true&width=600&height=130&lines=Web+Developer;Software+Engineer+Student;Problem+Solver;Open-Source+Enthusiast" width="55%"/>
   </a>
 </p>
 
@@ -27,60 +27,48 @@
 </picture>
 
 <div align="center">
-Systems Engineering student & QA Automation Engineer at Corporación BI. I build test automation frameworks by day and break things in my home lab by night. Linux enthusiast, currently riced on Arch + Hyprland. Working my way toward backend development.
+Software Engineering student & QA Automation Engineer at Corporación BI. I build test automation frameworks by day and break things in my home lab by night. Linux enthusiast, currently riced on Arch + Hyprland. Working my way toward backend development.
 </div>
       
 <h1>💻 My Skills:</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div align="center">  
+
 <h3>Programming languages:</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,java,php,ts)](https://skillicons.dev)
 
 <h3>Frontend Development:</h3>
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=angular,html,css,bootstrap,jquery)](https://skillicons.dev)
 
 <h3>Backend Development:</h3>
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=net,express,nodejs)](https://skillicons.dev)
+
+<img align="left" src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="18%"/>
+<img align="right" src="https://media.tenor.com/4K2_dLLq-pwAAAAi/charmander-chases-tail.gif" width="18%"/>
 
 <h3>Database:</h3>
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql,azure,aws)](https://skillicons.dev)
 
 <h3>QA and Test automation:</h3>
 
-![Selenium](https://img.shields.io/badge/selenium-43b02a.svg?style=flat-square&logo=selenium&logoColor=white) 
-![JUnit](https://img.shields.io/badge/junit-25A162.svg?style=flat-square&logo=junit&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=selenium,vitest)](https://skillicons.dev)
 
 <h3>Version Control:</h3>
 
-![GitHub](https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white) 
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
 
 <h3>Preferred IDEs & Tools:</h3>
 
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/vscode-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/virtualbox-183A61.svg?style=flat-square&logo=virtualbox&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+[![My Skills](https://skillicons.dev/icons?i=arch,vim,visualstudio,postman,bash)](https://skillicons.dev)
 
+![](https://github-readme-stats-fast.vercel.app/api?username=erickm13&show_icons=true&theme=transparent)
+
+<br clear="both"/>
+</div>
 
 <div align="center">
 
@@ -93,11 +81,8 @@ Systems Engineering student & QA Automation Engineer at Corporación BI. I build
 | Frontend Development | 💚💚💚🖤🖤 |
 | Coffee Consumption   | 💚💚💚💚💚 (MAX) |
 
+<img width="280" src="https://media.tenor.com/1xtvQE_XAnMAAAAi/pokemon-of-ashes.gif"  />
+
 </div>
-
-![](https://github-readme-stats-fast.vercel.app/api?username=erickm13&show_icons=true&theme=transparent)
-
-  <div align="center">
-    <img src="https://media.tenor.com/1xtvQE_XAnMAAAAi/pokemon-of-ashes.gif"  />
-  </div>
+    
 </div>
