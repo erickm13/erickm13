@@ -47,7 +47,7 @@ Software Engineering student & QA Automation Engineer at Corporación BI. I buil
 [![My Skills](https://skillicons.dev/icons?i=net,express,nodejs)](https://skillicons.dev)
 
 <img align="left" src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="18%"/>
-<img align="right" src="https://media.tenor.com/4K2_dLLq-pwAAAAi/charmander-chases-tail.gif" width="10%"/>
+<img align="right" src="https://media.tenor.com/4K2_dLLq-pwAAAAi/charmander-chases-tail.gif" width="18%"/>
 
 <h3>Database:</h3>
 
